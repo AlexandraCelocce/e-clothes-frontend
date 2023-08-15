@@ -1,0 +1,92 @@
+
+.retangulo-loja {
+  background-color: #9A233D; 
+}
+
+.loja {
+ 
+  height: 50px;
+  
+}
+
+.loja p {
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 19.6px;
+}
+
+.fale-fisica .d-flex.align-items-center {
+  display: flex;
+  align-items: center;
+  margin-right: 25px; /* Espaço entre cada par de imagem e parágrafo */
+}
+
+.fale-fisica img {
+  margin-right: 8px; /* Espaço entre a imagem e o parágrafo */
+}
+
+.fale-fisica p {
+  color: #FFF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 19.6px;
+}
+
+
+.retangulo-loja h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+}
+
+.logo h1 {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  padding: 20px;
+  color: #9A233D;
+}
+
+.opcoes .d-flex.align-items-center {
+  margin-right: 25px; /* Espaço entre cada par de imagem e parágrafo */
+}
+
+.opcoes img {
+  margin-right: 8px; /* Espaço entre a imagem e o parágrafo */
+}
+
+.opcoes p {
+  color: #383838;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 19.6px;
+}
+
+.novidades p{
+  padding-bottom: 10px;
+}
+
+.banner img {
+  max-width: 100%; /* Garante que a imagem não ultrapasse a largura do container */
+
+}
+
+.retangulo-loja2 {
+  background-color: #9A233D; 
+
+}
+
+.retangulo-loja2 p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  padding: 10px 0 10px 10px;
+}
+
+.frete-gratis {
+  
+}
+
